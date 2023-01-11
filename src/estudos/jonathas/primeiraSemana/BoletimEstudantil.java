@@ -1,3 +1,5 @@
+package estudos.jonathas.primeiraSemana;
+
 import javax.lang.model.util.ElementScanner14;
 
 public class BoletimEstudantil {
