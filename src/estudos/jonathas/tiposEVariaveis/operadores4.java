@@ -17,6 +17,7 @@ public class operadores4 {
         boolean variavel = true;
 
         System.out.println(!variavel);
+        System.out.println(numero + " Aqui um teste");
 
 
     }
